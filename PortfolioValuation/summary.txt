@@ -1,0 +1,29 @@
+PORTFOLIO VALUATION SUMMARY
+Holdings valued: 7
+Holdings skipped: 1
+Skipped tickers: CPI
+
+PORTFOLIO TOTALS
+Total cost: R221,369.75
+Total value: R260,759.90
+Total P&L: R39,390.16
+Total return: 17.79%
+
+WINNERS AND LOSERS
+Winners: 6
+Losers: 1
+
+VALUE BY CURRENCY
+ZAR: R128,432.50
+USD: R132,327.41
+
+PERFORMANCE
+Best performer: MTN (37.03%)
+Worst performer: SOL (-16.39%)
+
+CONCENTRATION FLAGS
+MSFT: 27.18%
+
+PROJECTION
+Target: R6,000,000.00
+Years to target at 8%: 41
