@@ -1,0 +1,9 @@
+ticker,name,quantity,average_cost,currency
+NPN,Naspers,12,3150.00,ZAR
+SBK,Standard Bank,150,198.50,ZAR
+SOL,Sasol,80,142.20,ZAR
+MTN,MTN Group,200,96.40,ZAR
+SHP,Shoprite,60,245.00,ZAR
+CPI,Capitec,10,2140.00,ZAR
+AAPL,Apple,15,168.00,USD
+MSFT,Microsoft,9,395.00,USD
